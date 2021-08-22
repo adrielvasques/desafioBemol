@@ -4,8 +4,6 @@ O presente repositório é a minha análise do dataset disponibilizado pelo proc
 ## Dependencies 
 * Python 3.x.x
 * Pandas
-* Python OS
-
 
 ## Formato
 A resolução do problema proposto encontra-se no formato de Notebook do Colab
